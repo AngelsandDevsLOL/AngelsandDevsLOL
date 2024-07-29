@@ -1,7 +1,7 @@
-• 👋 I'm Angelina, a MaCS student currently attending William Lyon Mackenzie C.I.
-• 🌱 Learning C++ and competitive programming!
-• 📌 See the pinned repos below or my repositories for a sample of my work
-• 🐶 Have a dog! (I love cats and birds just as much)
+- 👋 I'm Angelina, a MaCS student currently attending William Lyon Mackenzie C.I.
+- 🌱 Learning C++ and competitive programming!
+- 📌 See the pinned repos below or my repositories for a sample of my work
+- 🐶 Have a dog! (I love cats and birds just as much)
 
 <!--
 **AngelsandDevsLOL/AngelsandDevsLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
