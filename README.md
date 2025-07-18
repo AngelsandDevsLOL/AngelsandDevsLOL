@@ -1,4 +1,4 @@
-- 👋 I'm Angelina, an Incoming CS students @UofT.
+- 👋 I'm Angelina, an Incoming CS student @UofT.
 - 🌱 Learning AI/ML, web development, app development, super interested in computer vision!
 - 📌 See the pinned repos below or my repositories for a sample of my work
 - 🐶 Have a dog! (I love cats and birds just as much)
