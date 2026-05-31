@@ -1,9 +1,9 @@
-- 👋 I'm Angelina, an Incoming CS student @UofT.
-- 🌱 Learning AI/ML, web development, app development, super interested in computer vision!
+- 👋 I'm Angelina, a 2nd-year CS specialist @UofT
+- 🌱 Learning AI/ML, web development, and super interested in computer vision!
 - 📌 See the pinned repos below or my repositories for a sample of my work
 - 🐶 Have a dog! (I love cats and birds just as much)
 - 😄 Pronouns: she/her
-
+- ☕ I love coffee
 <!--
 **AngelsandDevsLOL/AngelsandDevsLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
