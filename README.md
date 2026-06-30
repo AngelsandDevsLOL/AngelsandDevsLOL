@@ -1,7 +1,6 @@
 - 👋 I'm Angelina, a Computer Science student at the University of Toronto
-- 🌱 Learning AI/ML, web development, and super interested in computer vision!
-- 📌 See the pinned repos below or my repositories for a sample of my work
-- 🐶 Have a dog! (I love cats and birds just as much)
+- 🌱 Learning AI/ML, and super interested in computer vision!
+- 📌 See the pinned repos below or my [repositories](https://github.com/AngelsandDevsLOL?tab=repositories) for a sample of my work
 - 😄 Pronouns: she/her
 - 📄 My [resume](https://angelsanddevslol.github.io/assets/resume.pdf) and [website](https://angelsanddevslol.github.io/)
 - ✉️ See something interesting? Reach out to me at `angelinajiang60 -at- gmail.com` • [`linkedin`](https://www.linkedin.com/in/angelina-qihong-jiang)
