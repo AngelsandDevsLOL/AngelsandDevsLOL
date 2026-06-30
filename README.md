@@ -4,7 +4,7 @@
 - 🐶 Have a dog! (I love cats and birds just as much)
 - 😄 Pronouns: she/her
 - 📄 My [resume](https://angelsanddevslol.github.io/assets/resume.pdf) and [website](https://angelsanddevslol.github.io/)
-- See something interesting? Reach out to me at `angelinajiang60 -at- gmail.com` • [`linkedin`](https://www.linkedin.com/in/angelina-qihong-jiang)
+- ✉️ See something interesting? Reach out to me at `angelinajiang60 -at- gmail.com` • [`linkedin`](https://www.linkedin.com/in/angelina-qihong-jiang)
 - ☕ I love coffee
 <!--
 **AngelsandDevsLOL/AngelsandDevsLOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
